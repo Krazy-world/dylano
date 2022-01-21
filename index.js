@@ -141,5 +141,3 @@ client.on("guildMemberAdd", (member) => {
     member.setNickname("dylano follower")
     member.roles.add("931820157523865620")
 })
-
-client.login("OTI5NTE1NDM4NTI0NzYwMDk1.Ydoctg.InrO0a-tiFqv5fuGBRpOt3JH1xI")
